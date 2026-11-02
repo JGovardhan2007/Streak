@@ -1,0 +1,6 @@
+{
+  "name": "Streak",
+  "description": "Social Accountability Habit Tracker with Shared Habit Circles and Peer Nudges",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
